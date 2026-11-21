@@ -1,3 +1,5 @@
+![个人主页横幅](./banner.jpg)
+
 ## Hi there 👋
 
 <!--
